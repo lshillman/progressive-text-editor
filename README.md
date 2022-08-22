@@ -24,6 +24,10 @@ To roll your own, you'll need Node.js and npm to be installed before you begin. 
 
 ## Usage
 
+
+https://user-images.githubusercontent.com/5232938/185833484-b942d775-0496-442f-bedc-69db831aecb9.mp4
+
+
 Edit the text in the window, and click away from the window to save. All window contents will be stored in indexedDB if available, or localStorage if not.
 
 ## License
